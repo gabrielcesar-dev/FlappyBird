@@ -12,7 +12,7 @@ This is a simple implementation of the classic Flappy Bird game using Python and
    pip install pygame
    ```
 
-3. Clone or download the source code from [GitHub repository](https://github.com).
+3. Clone or download the source code from [GitHub repository](https://github.com/gcxz7/FlappyBird/tree/main)
 
 4. Navigate to the directory containing the source code.
 
