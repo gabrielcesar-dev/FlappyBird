@@ -17,9 +17,7 @@ class Ground:
             self.x_second_ground = self.x_first_ground + Ground.WIDTH
             
         self.x_first_ground -= Ground.SPEED
-        self.x_second_ground -= Ground.SPEED
-        
-
+        self.x_second_ground -= Ground.SPEED
     
     def animation(self, screen):
         screen.blit(IMAGE_GROUND, (self.x_first_ground, self.y))
